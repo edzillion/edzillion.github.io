@@ -10,6 +10,7 @@ name: Ed Murphy
 title: generalist developer
 email: edzillion@gmail.com  
 website: edzillion.github.io
+phone: "+491700000000"
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -157,7 +158,7 @@ content:
 
       From a recent trip to one of the most westerly points in europe.
        
-      ![Trees](/images/dursey.webp "Castle Ruins Bere Peninsula")
+      ![Castle Ruins Bere Peninsula](/images/dursey.webp "Castle Ruins Bere Peninsula")
 
 # Footer
 footer_show_references: true
