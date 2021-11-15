@@ -61,25 +61,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Blood 'n Guts
+        title: <div class="fab fa-github"></div> <a href="https://github.com/edzillion/blood-n-guts">Blood 'n Guts
         link: foundryvtt.com/packages/blood-n-guts
         # link_text: Project Website
-        additional_links:
-          - title:  edzillion/blood-n-guts
-            icon: fab fa-github
-            url: github.com/edzillion/blood-n-guts          
+        # additional_links:
+        #   - title:  edzillion/blood-n-guts
+        #     icon: fab fa-github
+        #     url: github.com/edzillion/blood-n-guts          
         quote: >
           Spray your dungeons with blood!
         description: | # this will include new lines to allow paragraphs
           During the lockdown I got into roleplaying with some friends remotely and was very impressed with Foundry Virtual Table Top. I quickly realised the power of the module system for adding features and developed a few different modules, with this one being the most successful. 
       - layout: top-middle
-        title: ghost-backup-s3
+        title: <div class="fab fa-github"></div> <a href="https://github.com/edzillion/ghost-backup-s3">ghost-backup-s3</a>
         link: github.com/edzillion/ghost-backup-s3
         # link_text: Project Website
-        additional_links:
-          - title:  edzillion/ghost-backup-s3
-            icon: fab fa-github
-            url: github.com/edzillion/ghost-backup-s3
+        # additional_links:
+        #   - title:  edzillion/ghost-backup-s3
+        #     icon: fab fa-github
+        #     url: github.com/edzillion/ghost-backup-s3
           
         quote: >
           Simple docker solution for ghost backup / restore from s3 
@@ -99,8 +99,8 @@ content:
         quote: >
           A Basic Income on the Blockchain
         description: | # this will include new lines to allow paragraphs
-          I founded and worked for Circles as the main tech person with many roles and responsibilites from frontend design and development (React Native) to internal tools (chat bots, voting systems etc) to backend (both crypto and MERN APIs) and best-practice procedures and processes such as automated building and testing pipelines on AWS.
-          As a startup I also undertook pitching and presenting the project at various conferences and meetings, and liaising with developers and partners on various aspects of the project.
+          I founded and worked for Circles as the main tech person with many roles and responsibilites from frontend (React Native, Solidity) to backend (ethereum, MERN, APIs) to tools and best-practice procedures and processes such as automated building and testing pipelines on AWS.
+          As a startup founder I also undertook pitching and presenting and liaising with stakeholders and partners on various aspects of the project.
 
       - layout: left
         title: Skyes Enterprises         
