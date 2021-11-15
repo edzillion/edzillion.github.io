@@ -147,18 +147,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am a recent migrant to Berlin and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy:
-      - Hiking
-      - Arduino / Raspberry Pi SoC Making
-      - Live Music & [Deejaying](https://soundcloud.com/edzillion/popular-tracks)
-      - Horticulture
-      - Petanque 
-      - Travel
-      - etc.
-
-      From a recent trip to one of the most westerly points in europe.
-       
-      ![Castle Ruins Bere Peninsula](/images/dursey.webp "Castle Ruins Bere Peninsula")
+      I grew up in Ireland and have travelled and lived around the world. I am a recent migrant to Berlin and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy hiking, cooking, arduino/rpi projects, live music & [deejaying](https://soundcloud.com/edzillion/popular-tracks), gardening and horticulture, petanque, travel, etc etc.
 
 # Footer
 footer_show_references: true
