@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ed Murphy
-title: Generalist Developer
+title: generalist developer
 email: edzillion@gmail.com  
 website: edzillion.github.io
 
@@ -17,12 +17,12 @@ darkmode: false
 # Social links
 twitter_username: edzillion
 github_username:  edzillion
-stackoverflow_username: "edzillion"
+stackoverflow_username: "65025"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: edzillion
-linkedin_username: edzillion
+# linkedin_username: edzillion
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: edzillion
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,75 +46,122 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/ed_murphy_avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Ed Murphy and I'm a developer. I have experience of programming (<mark>JS</mark>, <mark>Node</mark>, <mark>TypeScript</mark>, PHP etc), frontend dev (<mark>ReactJS</mark>, <mark>Angular</mark> etc), crypto (Solidity, Truffle/ganache etc) web dev (HTML, CSS etc) server admin (linux, <mark>docker</mark>, <mark>AWS</mark>, Firebase, <mark>Terraform</mark> etc), tools (git, SVN etc) and I am proficient at a host of other design related tools (vector/raster graphics, sound design and arrangement, video editing etc).
+  <br>
+  <br>
+  In terms of soft skills I have experience in <mark>presenting/pitching</mark>, community building, moderating discussions both on and offline, <mark>managing</mark> small teams etc.      
+  <br>
+  <br>
+  I have worked in many different roles and industries. I have returned from a short sabattical full of enthusiasm for the challenges ahead. 
 
 content:
-  - title: Projects # Title for the section
+  - title: Recent Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Blood 'n Guts
+        link: foundryvtt.com/packages/blood-n-guts
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  edzillion/blood-n-guts
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: github.com/edzillion/blood-n-guts          
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Spray your dungeons with blood!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          During the lockdown I got into roleplaying with some friends remotely and was very impressed with Foundry Virtual Table Top. I quickly realised the power of the module system for adding features and developed a few different modules, with this one being the most successful. 
+      - layout: top-middle
+        title: ghost-backup-s3
+        link: github.com/edzillion/ghost-backup-s3
+        # link_text: Project Website
+        additional_links:
+          - title:  edzillion/ghost-backup-s3
+            icon: fab fa-github
+            url: github.com/edzillion/ghost-backup-s3
+          
+        quote: >
+          Simple docker solution for ghost backup / restore from s3 
+        description: | # this will include new lines to allow paragraphs
+          I built this tool after using Ghost blogging engine and not being satisfied with the backup/restore options available.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Circles 
+        link: joincircles.net
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Founder / Full Stack Developer
+        caption: 2016 - 2020
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          A Basic Income on the Blockchain
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          I founded and worked for Circles as the main tech person with many roles and responsibilites from frontend design and development (React Native) to internal tools (chat bots, voting systems etc) to backend (both crypto and MERN APIs) and best-practice procedures and processes such as automated building and testing pipelines on AWS.
+          As a startup I also undertook pitching and presenting the project at various conferences and meetings, and liaising with developers and partners on various aspects of the project.
+
+      - layout: left
+        title: Skyes Enterprises         
+        # link_text: boringcompany.com
+        sub_title: Player Support Specialist
+        caption: 2016 - 2017
+        quote: >
+          Short-term job
+        description: | # this will include new lines to allow paragraphs
+          Technical and account support for owners of Sony PlayStation products.
+
+      - layout: left
+        title: Simple Lifeforms      
+        # link_text: boringcompany.com
+        sub_title: Founder / Developer / Game Designer
+        caption: 2011 - 2015
+        quote: >
+          Casual Games / MMO Games / Publishing
+        description: | # this will include new lines to allow paragraphs
+          Producer / Developer role on project Night Crawlers – also design, art, sound etc. Techs: HTML5, Javascript, NodeJS etc.
+          Set up and managed Simple Lifeforms, business development, research, tech development, platform development, marketing, admin, strategy etc.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Leeds University
+        caption: 2005 - 2006
+        sub_title: Masters in Business Administration <mark>Merit</mark>
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Modules: Project Mgmt, Strategic Mgmt, Marketing, Operations, Managing Change, Economics, HR Mgmt, Accounting, Finance, IP Mgmt, E-Business.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          For my dissertation I authored a report on the games industry entitled “Gold Farmers and the Grind: The Changing Business of Persistent State Worlds”.
+        
+      - layout: left
+        title: Bradford University
+        caption: 2002 - 2005
+        sub_title: BSc Interactive Systems & Video Games Design <mark>1st Class Honours</mark>        
+        description: | # this will include new lines to allow paragraphs
+          For my major project I created and developed the game Insignia through the role of game designer and technical director. The game was a finalist in the 2005 Dare to Be Digital competition.
+          For my individual project I designed, created art, sound assets and coded a J2ME midlet game, based on the arcade classic Gauntlet.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      I am a recent migrant to Berlin and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy:
+      - Hiking
+      - Arduino / Raspberry Pi SoC Making
+      - Live Music & [Deejaying](https://soundcloud.com/edzillion/popular-tracks)
+      - Horticulture
+      - Petanque 
+      - Travel
+      - etc.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      From a recent trip to one of the most westerly points in europe.
+       
+      ![Trees](/images/dursey.webp "Castle Ruins Bere Peninsula")
 
 # Footer
 footer_show_references: true
-references_title: References on request (Override references text)
+references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
