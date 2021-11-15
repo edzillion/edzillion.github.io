@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ed Murphy and I'm a developer. I have experience of programming (<mark>JS</mark>, <mark>Node</mark>, <mark>TypeScript</mark>, PHP etc), frontend dev (<mark>ReactJS</mark>, <mark>Angular</mark> etc), crypto (Solidity, Truffle/ganache etc) web dev (HTML, CSS etc) server admin (linux, <mark>docker</mark>, <mark>AWS</mark>, Firebase, <mark>Terraform</mark> etc), tools (git, SVN etc) and I am proficient at a host of other design related tools (vector/raster graphics, sound design and arrangement, video editing etc).    
 
   In terms of soft skills I have experience in <mark>presenting/pitching</mark>, community building, moderating discussions both on and offline, <mark>managing</mark> small teams etc.        
-  
+
   I have worked in many different roles and industries. I have returned from a short sabattical full of enthusiasm for the challenges ahead. 
 
 content:
@@ -145,7 +145,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I grew up in Ireland and have travelled and lived around the world. I am a recent migrant to Berlin and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy hiking, cooking, arduino/rpi projects, live music & [deejaying](https://soundcloud.com/edzillion/popular-tracks), gardening and horticulture, petanque, travel, etc etc.
+      I grew up in Ireland and have travelled and lived around the world. I am a recent migrant to [Berlin](https://www.instagram.com/p/CFANLY_HAXa/) and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy [hiking](https://www.instagram.com/p/CUlHH2DMZ7V/), cooking, arduino/rpi projects, live music & [deejaying](https://soundcloud.com/edzillion/popular-tracks), gardening and horticulture, petanque, [travel](https://www.instagram.com/p/CPC-A02H1Vy/), etc etc.
 
 # Footer
 footer_show_references: true
