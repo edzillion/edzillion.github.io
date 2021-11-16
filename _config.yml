@@ -145,7 +145,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I grew up in Ireland and have travelled and lived around the world. I am a recent migrant to [Berlin](https://www.instagram.com/p/CFANLY_HAXa/) and I love this city. I like trying my hand at something new and other than my interests in tech I also enjoy [hiking](https://www.instagram.com/p/CUlHH2DMZ7V/), cooking, arduino/rpi projects, live music & [deejaying](https://soundcloud.com/edzillion/popular-tracks), gardening and horticulture, petanque, [travel](https://www.instagram.com/p/CPC-A02H1Vy/), etc etc.
+      I grew up in Ireland and have travelled and lived around the world. As an Irish citizen I am a <mark>full EU passport holder</mark>. I am a recent migrant to [Berlin](https://www.instagram.com/p/CFANLY_HAXa/) and I love the city. I like trying my hand at something new and other than my interests in tech I also enjoy [hiking](https://www.instagram.com/p/CUlHH2DMZ7V/), cooking, arduino/rpi projects, live music & [deejaying](https://soundcloud.com/edzillion/popular-tracks), gardening and horticulture, petanque, [travel](https://www.instagram.com/p/CPC-A02H1Vy/), etc etc.
 
 # Footer
 footer_show_references: true
