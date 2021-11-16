@@ -49,11 +49,11 @@ instagram_username: edzillion
 # about_title: About Me
 about_profile_image: images/ed_murphy_avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ed Murphy and I'm a developer. I have experience of programming (<mark>JS</mark>, <mark>Node</mark>, <mark>TypeScript</mark>, PHP etc), frontend dev (<mark>ReactJS</mark>, <mark>Angular</mark> etc), crypto (Solidity, Truffle/ganache etc) web dev (HTML, CSS etc) server admin (linux, <mark>docker</mark>, <mark>AWS</mark>, Firebase, <mark>Terraform</mark> etc), tools (git, SVN etc) and I am proficient at a host of other design related tools (vector/raster graphics, sound design and arrangement, video editing etc).    
+  Hi, my name is Ed Murphy and I'm a developer. I have experience of programming (<mark>JS</mark>, <mark>Node</mark>, <mark>TypeScript</mark>, PHP etc), frontend dev (<mark>ReactJS</mark>, <mark>Angular</mark> etc), crypto (Solidity, Truffle/ganache etc), web dev (HTML, CSS etc), server admin (linux, <mark>docker</mark>, <mark>AWS</mark>, Firebase, <mark>Terraform</mark> etc), tools (git, SVN etc) and I am proficient at a host of other design related tools (vector/raster graphics, sound design and arrangement, video editing etc).    
 
   In terms of soft skills I have experience in <mark>presenting/pitching</mark>, community building, moderating discussions both on and offline, <mark>managing</mark> small teams etc.        
 
-  I have worked in many different roles and industries. I have returned from a short sabattical full of enthusiasm for the challenges ahead. 
+  I have worked in many different roles and industries including games, finance, crypto and NGO. I have returned from a short sabattical full of enthusiasm for the challenges ahead. 
 
 content:
   - title: Recent Projects # Title for the section
@@ -132,7 +132,7 @@ content:
         quote: >
           Modules: Project Mgmt, Strategic Mgmt, Marketing, Operations, Managing Change, Economics, HR Mgmt, Accounting, Finance, IP Mgmt, E-Business.
         description: | # this will include new lines to allow paragraphs
-          For my dissertation I authored a report on the games industry entitled “Gold Farmers and the Grind: The Changing Business of Persistent State Worlds”.
+          For my dissertation I authored a report on the games industry entitled <i>Gold Farmers and the Grind: The Changing Business of Persistent State Worlds</i>.
         
       - layout: left
         title: Bradford University
