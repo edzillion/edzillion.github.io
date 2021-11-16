@@ -145,7 +145,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am a recent migrant to Berlin and I love the city. I like trying my hand at something new and other than my interests in tech I also enjoy:
+      I am a recent migrant to Berlin and I love the city. As an Irish citizen I am a <mark>full EU passport holder</mark>. I like trying my hand at something new and other than my interests in tech I also enjoy:
       - Hiking
       - Arduino / RPi
       - Live Music & [Deejaying](https://soundcloud.com/edzillion/popular-tracks)
